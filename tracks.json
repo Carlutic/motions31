@@ -1,0 +1,372 @@
+[
+  {
+    "name": "AOA - Good Luck",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/aoa_aoa_good_luck/aoa_good_luck/main.vmd",
+    "camMotionFile": "newkpop/aoa_aoa_good_luck/aoa_good_luck/camera.vmd",
+    "audioPlayerFile": "audio/cbf52b41f605a9429e5554a49ac0df83e0947386.mp3"
+  },
+  {
+    "name": "BESTie-Excuse me",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/bestie_bestie_excuse_me/bestie_excuse_me/main.vmd",
+    "camMotionFile": "newkpop/bestie_bestie_excuse_me/bestie_excuse_me/camera.vmd",
+    "audioPlayerFile": "audio/706dfaf55c3a9c7a0e0cd3f4c77b73bdf2ea4915.mp3"
+  },
+  {
+    "name": "BESTie-Excuse me - (TDA body) Excuse me (short ver) motion",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/bestie_bestie_excuse_me/bestie_excuse_me_tda/main.vmd",
+    "camMotionFile": "newkpop/bestie_bestie_excuse_me/bestie_excuse_me/camera.vmd",
+    "audioPlayerFile": "audio/706dfaf55c3a9c7a0e0cd3f4c77b73bdf2ea4915.mp3"
+  },
+  {
+    "name": "Don't Know What To Do (1+2)",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/blackpink_don_t_know_what_to_do/don_t_know_what_to_d/main.vmd",
+    "partnerMotionFile": "newkpop/blackpink_don_t_know_what_to_do/don_t_know_what_to_d/partner.vmd",
+    "audioPlayerFile": "audio/8886d7d7b1524298394f9be57e7b09121fd523dc.mp3"
+  },
+  {
+    "name": "Lisa - Swalla (Ver. 2.0) (2+2)",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/blackpink_lisa_swalla_ver_2_0_/lisa_swalla_ver_2_0_/main.vmd",
+    "partnerMotionFile": "newkpop/blackpink_lisa_swalla_ver_2_0_/lisa_swalla_ver_2_0_/main.vmd",
+    "camMotionFile": "newkpop/blackpink_lisa_swalla_ver_2_0_/lisa_swalla_ver_2_0_/camera.vmd",
+    "audioPlayerFile": "audio/6f69bdb6200789e3c3cc996208237adcff9c338a.mp3"
+  },
+  {
+    "name": "BTS - Boy With Luv [2.0]",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/bts_bts_boy_with_luv_2_0_/bts_boy_with_luv_2_0/main.vmd",
+    "camMotionFile": "newkpop/bts_bts_boy_with_luv_2_0_/bts_boy_with_luv_2_0/camera.vmd",
+    "audioPlayerFile": "audio/632fb2951e3f380f46779aa1ed87e8a0cfae9663.mp3"
+  },
+  {
+    "name": "BTS - DNA [motion by ureshiiiiii]",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/bts_bts_dna_motion_by_ureshiii/bts_dna_motion_by_ur/main.vmd",
+    "camMotionFile": "newkpop/bts_bts_dna_motion_by_ureshiii/bts_dna_motion_by_ur/camera.vmd",
+    "audioPlayerFile": "audio/7c5055e5ad885461c9335d353dfe1b7efdb806c2.mp3"
+  },
+  {
+    "name": "BTS - Dope [BigYellowAlien] - SUGA",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/bts_bts_dope_bigyellowalien_/bts_dope_bigyellowal/main.vmd",
+    "camMotionFile": "newkpop/bts_bts_dope_bigyellowalien_/bts_dope_bigyellowal/camera.vmd",
+    "audioPlayerFile": "audio/ae2b1a3ebfc0d636ad1022b56a84b845aa329e5b.mp3"
+  },
+  {
+    "name": "BTS - Dope [BigYellowAlien] - Rap Monster",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/bts_bts_dope_bigyellowalien_/bts_dope_bigyellowal/main_2.vmd",
+    "camMotionFile": "newkpop/bts_bts_dope_bigyellowalien_/bts_dope_bigyellowal/camera.vmd",
+    "audioPlayerFile": "audio/ae2b1a3ebfc0d636ad1022b56a84b845aa329e5b.mp3"
+  },
+  {
+    "name": "BTS - Dope [BigYellowAlien] - J-Hope",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/bts_bts_dope_bigyellowalien_/bts_dope_bigyellowal/main_3.vmd",
+    "camMotionFile": "newkpop/bts_bts_dope_bigyellowalien_/bts_dope_bigyellowal/camera.vmd",
+    "audioPlayerFile": "audio/ae2b1a3ebfc0d636ad1022b56a84b845aa329e5b.mp3"
+  },
+  {
+    "name": "BTS - Fire [BigYellowAlien]",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/bts_bts_fire_bigyellowalien_/bts_fire_bigyellowal/main.vmd",
+    "camMotionFile": "newkpop/bts_bts_fire_bigyellowalien_/bts_fire_bigyellowal/camera.vmd",
+    "audioPlayerFile": "audio/3646874b0ee71b38f6a4ee73090f44d34b424dca.mp3"
+  },
+  {
+    "name": "BTS - Not Today [BigYellowAlien]",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/bts_bts_not_today_bigyellowali/bts_not_today_bigyel/main.vmd",
+    "camMotionFile": "newkpop/bts_bts_not_today_bigyellowali/bts_not_today_bigyel/camera.vmd",
+    "audioPlayerFile": "audio/7843553c442457fa699b713c4047223781b7c249.mp3"
+  },
+  {
+    "name": "血汗泪",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/bts__/_/main.vmd",
+    "camMotionFile": "newkpop/bts__/_/camera.vmd",
+    "audioPlayerFile": "audio/a9d71844ebeaf0be838115da792a8d73f8ab0ff8.mp3"
+  },
+  {
+    "name": "181115【MMD】POP STARS",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/k_d_a_181115_mmd_pop_stars/181115_mmd_pop_stars/main.vmd",
+    "camMotionFile": "newkpop/k_d_a_181115_mmd_pop_stars/181115_mmd_pop_stars/camera.vmd"
+  },
+  {
+    "name": "화사 (Hwa Sa) - 마리아 (Maria) - C A M E R A",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/mamamoo__hwa_sa_maria_/_hwa_sa_maria_c_a_m_/main.vmd",
+    "camMotionFile": "newkpop/mamamoo__hwa_sa_maria_/_hwa_sa_maria_c_a_m_/camera.vmd",
+    "audioPlayerFile": "audio/3e83419fdb9926a5719b09bf183d9fd21496a8c8.mp3"
+  },
+  {
+    "name": "thumbs up - face_TDA",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/momoland_thumbs_up/thumbs_up_face_tda/main.vmd",
+    "camMotionFile": "newkpop/momoland_thumbs_up/thumbs_up_face_tda/camera.vmd",
+    "expressionMotionFile": "newkpop/momoland_thumbs_up/thumbs_up_face_tda/expression.vmd",
+    "audioPlayerFile": "audio/35bdf92ed87422a88e8829421d70654b180ab817.mp3"
+  },
+  {
+    "name": "thumbs up - face",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/momoland_thumbs_up/thumbs_up_face/main.vmd",
+    "camMotionFile": "newkpop/momoland_thumbs_up/thumbs_up_face_tda/camera.vmd",
+    "expressionMotionFile": "newkpop/momoland_thumbs_up/thumbs_up_face_tda/expression.vmd",
+    "audioPlayerFile": "audio/35bdf92ed87422a88e8829421d70654b180ab817.mp3"
+  },
+  {
+    "name": "Red Velvet - Ice Cream Cake - Joy",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/red_velvet_red_velvet_ice_cream_cake/red_velvet_ice_cream/main.vmd",
+    "camMotionFile": "newkpop/red_velvet_red_velvet_ice_cream_cake/red_velvet_ice_cream/camera.vmd",
+    "audioPlayerFile": "audio/cd08ad72eb944868a16925429aec05f6c4dcdb85.mp3"
+  },
+  {
+    "name": "Red Velvet -Happiness",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/red_velvet_red_velvet_happiness/red_velvet_happiness/main.vmd",
+    "camMotionFile": "newkpop/red_velvet_red_velvet_happiness/red_velvet_happiness/camera.vmd",
+    "audioPlayerFile": "audio/a4736967fee753112324ff21105add45ea703544.mp3"
+  },
+  {
+    "name": "Red Velvet -Happiness - Seulgi",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/red_velvet_red_velvet_happiness/red_velvet_happiness/main_2.vmd",
+    "camMotionFile": "newkpop/red_velvet_red_velvet_happiness/red_velvet_happiness/camera.vmd",
+    "audioPlayerFile": "audio/a4736967fee753112324ff21105add45ea703544.mp3"
+  },
+  {
+    "name": "Red Velvet -Happiness - Irene",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/red_velvet_red_velvet_happiness/red_velvet_happiness/main_3.vmd",
+    "camMotionFile": "newkpop/red_velvet_red_velvet_happiness/red_velvet_happiness/camera.vmd",
+    "audioPlayerFile": "audio/a4736967fee753112324ff21105add45ea703544.mp3"
+  },
+  {
+    "name": "Red Velvet -Happiness - Joy",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/red_velvet_red_velvet_happiness/red_velvet_happiness/main_4.vmd",
+    "camMotionFile": "newkpop/red_velvet_red_velvet_happiness/red_velvet_happiness/camera.vmd",
+    "audioPlayerFile": "audio/a4736967fee753112324ff21105add45ea703544.mp3"
+  },
+  {
+    "name": "Red Velvet MEDLEY - c",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/red_velvet_red_velvet_medley/red_velvet_medley_c/main.vmd",
+    "audioPlayerFile": "audio/6b49dfd58297f394acbef74852e6f1e3b4ab45e3.mp3"
+  },
+  {
+    "name": "SUGAR FREE MOTION (2+2)",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/t_ara_sugar_free_motion/sugar_free_motion_2_/main.vmd",
+    "partnerMotionFile": "newkpop/t_ara_sugar_free_motion/sugar_free_motion_2_/main.vmd",
+    "camMotionFile": "newkpop/t_ara_sugar_free_motion/sugar_free_motion_2_/camera.vmd",
+    "expressionMotionFile": "newkpop/t_ara_sugar_free_motion/sugar_free_motion_2_/expression.vmd",
+    "audioPlayerFile": "audio/d56633b4e150d4f0913b515af4530ee27bc2d97e.mp3"
+  },
+  {
+    "name": "T-ARA - Bo Peep Bo Peep",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/t_ara_t_ara_bo_peep_bo_peep/t_ara_bo_peep_bo_pee/main.vmd",
+    "camMotionFile": "newkpop/t_ara_t_ara_bo_peep_bo_peep/t_ara_bo_peep_bo_pee/camera.vmd",
+    "audioPlayerFile": "audio/c16f011d64d3fb5af33f1ac0e09d007b5478c5c3.mp3"
+  },
+  {
+    "name": "TWICE - Candy pop（无镜头）",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/twice_twice_candy_pop_/twice_candy_pop_/main.vmd",
+    "expressionMotionFile": "newkpop/twice_twice_candy_pop_/twice_candy_pop_/expression.vmd",
+    "audioPlayerFile": "audio/a6c0878b31734ab9a8cb9ed576ad995d03ef548c.mp3"
+  },
+  {
+    "name": "TWICE - What is love",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/twice_twice_what_is_love/twice_what_is_love/main.vmd",
+    "camMotionFile": "newkpop/twice_twice_what_is_love/twice_what_is_love/camera.vmd",
+    "expressionMotionFile": "newkpop/twice_twice_what_is_love/twice_what_is_love/expression.vmd",
+    "audioPlayerFile": "audio/493a1f739200ffd3e984a4a722cb83fa860921fe.mp3"
+  },
+  {
+    "name": "TWICE - What is love - 动作YYB用——YYB_motion by 儀 (サエ)",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/twice_twice_what_is_love/twice_what_is_love_y/main.vmd",
+    "camMotionFile": "newkpop/twice_twice_what_is_love/twice_what_is_love/camera.vmd",
+    "expressionMotionFile": "newkpop/twice_twice_what_is_love/twice_what_is_love/expression.vmd",
+    "audioPlayerFile": "audio/493a1f739200ffd3e984a4a722cb83fa860921fe.mp3"
+  },
+  {
+    "name": "TWICE - What is love - 视线——eye by 儀 (サエ)",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/twice_twice_what_is_love/twice_what_is_love_e/main.vmd",
+    "camMotionFile": "newkpop/twice_twice_what_is_love/twice_what_is_love/camera.vmd",
+    "expressionMotionFile": "newkpop/twice_twice_what_is_love/twice_what_is_love/expression.vmd",
+    "audioPlayerFile": "audio/493a1f739200ffd3e984a4a722cb83fa860921fe.mp3"
+  },
+  {
+    "name": "181015【MMD】Wow Thing (1+1)",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/__181015_mmd_wow_thing/181015_mmd_wow_thing/main.vmd",
+    "partnerMotionFile": "newkpop/__181015_mmd_wow_thing/181015_mmd_wow_thing/main.vmd",
+    "camMotionFile": "newkpop/__181015_mmd_wow_thing/181015_mmd_wow_thing/camera.vmd"
+  },
+  {
+    "name": "181015【MMD】Wow Thing (3+3)",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/__181015_mmd_wow_thing/181015_mmd_wow_thing/main_2.vmd",
+    "partnerMotionFile": "newkpop/__181015_mmd_wow_thing/181015_mmd_wow_thing/main_2.vmd",
+    "camMotionFile": "newkpop/__181015_mmd_wow_thing/181015_mmd_wow_thing/camera.vmd"
+  },
+  {
+    "name": "181015【MMD】Wow Thing (4+4)",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/__181015_mmd_wow_thing/181015_mmd_wow_thing/main_3.vmd",
+    "partnerMotionFile": "newkpop/__181015_mmd_wow_thing/181015_mmd_wow_thing/main_3.vmd",
+    "camMotionFile": "newkpop/__181015_mmd_wow_thing/181015_mmd_wow_thing/camera.vmd"
+  },
+  {
+    "name": "BoA - Action",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/__boa_action/boa_action/main.vmd",
+    "camMotionFile": "newkpop/__boa_action/boa_action/camera.vmd",
+    "expressionMotionFile": "newkpop/__boa_action/boa_action/expression.vmd",
+    "audioPlayerFile": "audio/32fef5ba1502fbf8228cee2cb3b1c784708f7c3b.mp3"
+  },
+  {
+    "name": "BreakASweat",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/__breakasweat/breakasweat/main.vmd",
+    "camMotionFile": "newkpop/__breakasweat/breakasweat/camera.vmd",
+    "audioPlayerFile": "audio/d8a7a92b7b4723f9dc6e585a18d2acd137fae382.mp3"
+  },
+  {
+    "name": "DIA - Will You Go Out With Me(和我交往吗)",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/__dia_will_you_go_out_with_m/dia_will_you_go_out_/main.vmd",
+    "camMotionFile": "newkpop/__dia_will_you_go_out_with_m/dia_will_you_go_out_/camera.vmd",
+    "expressionMotionFile": "newkpop/__dia_will_you_go_out_with_m/dia_will_you_go_out_/expression.vmd",
+    "audioPlayerFile": "audio/82ee86befa7ef5537b2706d6c31bb41fafd38677.mp3"
+  },
+  {
+    "name": "KARA - STEP - 3_step-motion3",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/__kara_step/kara_step_3_step_mot/main.vmd",
+    "camMotionFile": "newkpop/__kara_step/kara_step_3_step_mot/camera.vmd",
+    "expressionMotionFile": "newkpop/__kara_step/kara_step_3_step_mot/expression.vmd",
+    "audioPlayerFile": "audio/c3dc18ab56fd83aee764962bc4fdc299e6d6451c.mp3"
+  },
+  {
+    "name": "KARA - STEP - 1_step-motion1",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/__kara_step/kara_step_1_step_mot/main.vmd",
+    "camMotionFile": "newkpop/__kara_step/kara_step_3_step_mot/camera.vmd",
+    "expressionMotionFile": "newkpop/__kara_step/kara_step_3_step_mot/expression.vmd",
+    "audioPlayerFile": "audio/c3dc18ab56fd83aee764962bc4fdc299e6d6451c.mp3"
+  },
+  {
+    "name": "MINX - LoveShake_Motion_v1.1",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/__minx_loveshake_motion_v1_1/minx_loveshake_motio/main.vmd"
+  },
+  {
+    "name": "MINX - LoveShake_Motion_v1.1 - LoveShake_Motion_Kanon",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/__minx_loveshake_motion_v1_1/minx_loveshake_motio/main_2.vmd"
+  },
+  {
+    "name": "Superstar",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/__superstar/superstar/main.vmd",
+    "camMotionFile": "newkpop/__superstar/superstar/camera.vmd"
+  },
+  {
+    "name": "tiny_g___minimanimo__by_maxutkamaximus",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/__tiny_g_minimanimo_by_maxut/tiny_g_minimanimo_by/main.vmd",
+    "camMotionFile": "newkpop/__tiny_g_minimanimo_by_maxut/tiny_g_minimanimo_by/camera.vmd",
+    "audioPlayerFile": "audio/36f0dc4700773b16b1ba3db834bb3eb0dc8aa410.mp3"
+  },
+  {
+    "name": "tiny_g___minimanimo__by_maxutkamaximus - Tei",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/__tiny_g_minimanimo_by_maxut/tiny_g_minimanimo_by/main_2.vmd",
+    "camMotionFile": "newkpop/__tiny_g_minimanimo_by_maxut/tiny_g_minimanimo_by/camera.vmd",
+    "audioPlayerFile": "audio/36f0dc4700773b16b1ba3db834bb3eb0dc8aa410.mp3"
+  },
+  {
+    "name": "tiny_g___minimanimo__by_maxutkamaximus - Teto",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/__tiny_g_minimanimo_by_maxut/tiny_g_minimanimo_by/main_3.vmd",
+    "camMotionFile": "newkpop/__tiny_g_minimanimo_by_maxut/tiny_g_minimanimo_by/camera.vmd",
+    "audioPlayerFile": "audio/36f0dc4700773b16b1ba3db834bb3eb0dc8aa410.mp3"
+  },
+  {
+    "name": "tiny_g___minimanimo__by_maxutkamaximus - Rin",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/__tiny_g_minimanimo_by_maxut/tiny_g_minimanimo_by/main_4.vmd",
+    "camMotionFile": "newkpop/__tiny_g_minimanimo_by_maxut/tiny_g_minimanimo_by/camera.vmd",
+    "audioPlayerFile": "audio/36f0dc4700773b16b1ba3db834bb3eb0dc8aa410.mp3"
+  },
+  {
+    "name": "tiny_g___minimanimo__by_maxutkamaximus - Motion",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/__tiny_g_minimanimo_by_maxut/tiny_g_minimanimo_by/main_5.vmd",
+    "camMotionFile": "newkpop/__tiny_g_minimanimo_by_maxut/tiny_g_minimanimo_by/camera.vmd",
+    "audioPlayerFile": "audio/36f0dc4700773b16b1ba3db834bb3eb0dc8aa410.mp3"
+  },
+  {
+    "name": "TXT CROWN",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/__txt_crown/txt_crown/main.vmd",
+    "camMotionFile": "newkpop/__txt_crown/txt_crown/camera.vmd",
+    "audioPlayerFile": "audio/52cfeef0fd54ec7cafd9b3246d6df896d0b3dd2e.mp3"
+  },
+  {
+    "name": "TXT CROWN - txt dance 2",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/__txt_crown/txt_crown_txt_dance_/main.vmd",
+    "camMotionFile": "newkpop/__txt_crown/txt_crown/camera.vmd",
+    "audioPlayerFile": "audio/52cfeef0fd54ec7cafd9b3246d6df896d0b3dd2e.mp3"
+  },
+  {
+    "name": "rain - 30sexy (30+30)",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/__rain_30sexy/rain_30sexy_30_30_/main.vmd",
+    "partnerMotionFile": "newkpop/__rain_30sexy/rain_30sexy_30_30_/partner.vmd"
+  },
+  {
+    "name": "东方神起 - Mirotic",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/___mirotic/_mirotic/main.vmd",
+    "camMotionFile": "newkpop/___mirotic/_mirotic/camera.vmd",
+    "expressionMotionFile": "newkpop/___mirotic/_mirotic/expression.vmd",
+    "audioPlayerFile": "audio/39159159b6791e0d111535c4259b036025af65b5.mp3"
+  },
+  {
+    "name": "东方神起 - Mirotic - Motion (低身長 ver)(Short Model)",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/___mirotic/_mirotic_motion_ver_/main.vmd",
+    "camMotionFile": "newkpop/___mirotic/_mirotic/camera.vmd",
+    "expressionMotionFile": "newkpop/___mirotic/_mirotic/expression.vmd",
+    "audioPlayerFile": "audio/39159159b6791e0d111535c4259b036025af65b5.mp3"
+  },
+  {
+    "name": "CHUNG HA - Snapping2 - Snapping by Lavemmd",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/_chung_ha_chung_ha_snapping2/chung_ha_snapping2_s/main.vmd",
+    "camMotionFile": "newkpop/_chung_ha_chung_ha_snapping2/chung_ha_snapping2_s/camera.vmd",
+    "audioPlayerFile": "audio/0244e7569b1fc4ccb570022b307e5cb9fd6d0794.mp3"
+  },
+  {
+    "name": "chung_ha___gotta_go__by_maxutkamaximus",
+    "group": "Kpop",
+    "modelMotionFile": "newkpop/_chung_ha_chung_ha_gotta_go_by_maxut/chung_ha_gotta_go_by/main.vmd",
+    "camMotionFile": "newkpop/_chung_ha_chung_ha_gotta_go_by_maxut/chung_ha_gotta_go_by/camera.vmd",
+    "audioPlayerFile": "audio/7ecce6fb3d1a1bfcb524e71640bd61c3b9a28d2d.mp3"
+  }
+]
