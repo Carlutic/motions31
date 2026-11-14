@@ -95,7 +95,8 @@
     "name": "181115【MMD】POP STARS",
     "group": "Kpop",
     "modelMotionFile": "newkpop/k_d_a_181115_mmd_pop_stars/181115_mmd_pop_stars/main.vmd",
-    "camMotionFile": "newkpop/k_d_a_181115_mmd_pop_stars/181115_mmd_pop_stars/camera.vmd"
+    "camMotionFile": "newkpop/k_d_a_181115_mmd_pop_stars/181115_mmd_pop_stars/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/4a24ac9d260452b2.mp3"
   },
   {
     "name": "화사 (Hwa Sa) - 마리아 (Maria) - C A M E R A",
@@ -213,21 +214,24 @@
     "group": "Kpop",
     "modelMotionFile": "newkpop/__181015_mmd_wow_thing/181015_mmd_wow_thing/main.vmd",
     "partnerMotionFile": "newkpop/__181015_mmd_wow_thing/181015_mmd_wow_thing/main.vmd",
-    "camMotionFile": "newkpop/__181015_mmd_wow_thing/181015_mmd_wow_thing/camera.vmd"
+    "camMotionFile": "newkpop/__181015_mmd_wow_thing/181015_mmd_wow_thing/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/28a839fee672a8e6.mp3"
   },
   {
     "name": "181015【MMD】Wow Thing (3+3)",
     "group": "Kpop",
     "modelMotionFile": "newkpop/__181015_mmd_wow_thing/181015_mmd_wow_thing/main_2.vmd",
     "partnerMotionFile": "newkpop/__181015_mmd_wow_thing/181015_mmd_wow_thing/main_2.vmd",
-    "camMotionFile": "newkpop/__181015_mmd_wow_thing/181015_mmd_wow_thing/camera.vmd"
+    "camMotionFile": "newkpop/__181015_mmd_wow_thing/181015_mmd_wow_thing/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/28a839fee672a8e6.mp3"
   },
   {
     "name": "181015【MMD】Wow Thing (4+4)",
     "group": "Kpop",
     "modelMotionFile": "newkpop/__181015_mmd_wow_thing/181015_mmd_wow_thing/main_3.vmd",
     "partnerMotionFile": "newkpop/__181015_mmd_wow_thing/181015_mmd_wow_thing/main_3.vmd",
-    "camMotionFile": "newkpop/__181015_mmd_wow_thing/181015_mmd_wow_thing/camera.vmd"
+    "camMotionFile": "newkpop/__181015_mmd_wow_thing/181015_mmd_wow_thing/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/28a839fee672a8e6.mp3"
   },
   {
     "name": "BoA - Action",
@@ -282,7 +286,8 @@
     "name": "Superstar",
     "group": "Kpop",
     "modelMotionFile": "newkpop/__superstar/superstar/main.vmd",
-    "camMotionFile": "newkpop/__superstar/superstar/camera.vmd"
+    "camMotionFile": "newkpop/__superstar/superstar/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/643da94398891711.mp3"
   },
   {
     "name": "tiny_g___minimanimo__by_maxutkamaximus",
